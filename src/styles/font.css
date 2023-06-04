@@ -1,0 +1,18 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RobotoMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/PlusJakartaSansRomanBold.ttf"); font-family : "Plus Jakarta Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/PlusJakartaSansRomanMedium.ttf"); font-family : "Plus Jakarta Sans"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/InterBold.ttf"); font-family : "Inter"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RobotoBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoMonoRegular.ttf"); font-family : "Roboto Mono"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/InterMedium.ttf"); font-family : "Inter"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/InterSemiBold.ttf"); font-family : "Inter"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/InterLight.ttf"); font-family : "Inter"; font-weight : 300;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RobotoRomanMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/MontserratBold.ttf"); font-family : "Montserrat"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/MontserratSemiBold.ttf"); font-family : "Montserrat"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MontserratRegular.ttf"); font-family : "Montserrat"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/MontserratMedium.ttf"); font-family : "Montserrat"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : italic; src: url("assets/fonts/MontserratItalic.ttf"); font-family : "Montserrat"; font-weight : 400;  }
